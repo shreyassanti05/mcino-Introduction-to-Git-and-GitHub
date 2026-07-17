@@ -3,7 +3,7 @@
 ## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-Updated README for Git CLI assignment.
+Updated README for Git CLI assignment.  
 ```
 Input:
    p, principal amount
